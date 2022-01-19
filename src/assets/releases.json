@@ -1,0 +1,30 @@
+{
+    "phil": {
+        "artist": "Malmö",
+        "name": "Phil EP",
+        "links": [
+            {
+                "item": "Spotify",
+                "href": "#"
+            },
+            {
+                "item": "Deezer",
+                "href": "#"
+            }
+        ]
+    },
+    "sink": {
+        "artist": "Malmö",
+        "name": "Sink EP",
+        "links": [
+            {
+                "item": "Spotify",
+                "href": "#"
+            },
+            {
+                "item": "Deezer",
+                "href": "#"
+            }
+        ]
+    }
+}
