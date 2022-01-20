@@ -4,12 +4,49 @@
         "name": "Phil EP",
         "links": [
             {
-                "item": "Spotify",
-                "href": "#"
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/phil-ep",
+                "text": "Listen"
             },
             {
-                "item": "Deezer",
-                "href": "#"
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2zlG8s7K6eqZCK1OYt1QOn?si=rnv9M3d5T9O7dblYMXs7xg",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/phil-single/1558135697",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/214288152",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/phil-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=iUdMbKCQ91o&list=PLXeHMU3G5EZj8r-37WEO2MEEQihUmhjBb&index=1",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/phil-malmo/cortleima93lb",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/176861494",
+                "text": "Listen"
+            },
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/phil-ep",
+                "text": "Merch"
             }
         ]
     },
@@ -18,12 +55,238 @@
         "name": "Sink EP",
         "links": [
             {
-                "item": "Spotify",
-                "href": "#"
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/sink-ep",
+                "text": "Listen"
             },
             {
-                "item": "Deezer",
-                "href": "#"
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/0Kq79jtO4iIY1Oyog1TP2b?si=N_x0zghfRb2JJFo6CaZVVg",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/sink/1512752617",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/147191122",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/sink-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=TmQVw_tcxWo&list=PLXeHMU3G5EZgYCF1mQVCTos-uGT7HuAdI",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/sink-malmo/jfqx718v2cakc",
+                "text": "Listen"
+            },
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/sink-ep",
+                "text": "Merch"
+            }
+        ]
+    },
+    "concorde": {
+        "artist": "Malmö",
+        "name": "Concorde",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/concorde",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/7hRgJNTVq8gwhqPpGbRGxs?si=_b-0EfcYSBKqzl3xmk_tkw",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/concorde-single/1461256665",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/94465062",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/concorde",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=BN8zvOc3W-A",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/concorde-malmo/qnn8c38k489za",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/108285204",
+                "text": "Listen"
+            },
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/concorde",
+                "text": "Merch"
+            }
+        ]
+    },
+    "latitude": {
+        "artist": "Malmö",
+        "name": "Latitude EP",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/latitude-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/1HAb8b61fiqzFKln8QqDTw?si=GOKz5zrnRHeqlGApCQACdw",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/latitude-ep/1437653945",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/74131552",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/latitude-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=ENu2NZHOUZk&list=PLXeHMU3G5EZjGhzlIf5Jbd4K9X4tepPBD",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/latitude-malmo/qydiveas3gmkc",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/95721063",
+                "text": "Listen"
+            },
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/latitude-ep",
+                "text": "Merch"
+            }
+        ]
+    },
+    "inupiat-remixes": {
+        "artist": "Malmö",
+        "name": "Inupiat Remixes",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/inupiat-remixes",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2NDtYc1d0mfHHkGoAvFP8H?si=yDIBmY2iRpCJBBQKr428vA",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/inupiat-remixes-ep/1320951503",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/52851082",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/inupiat-remixes",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=uotQhSoXOtY&list=PLXeHMU3G5EZiYBs9rGXaLQgFbLkI2KOeZ",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/inupiat-remixes-malmo/0859723187891",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/82034383",
+                "text": "Listen"
+            }
+        ]
+    },
+    "inupiat": {
+        "artist": "Malmö",
+        "name": "Inupiat",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/inupiat-single",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/1XtywSoUL6nzbCLDPSfCVJ?si=u4aKfLZwRMSQink4nJTXAA",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/inupiat-single/1446443028",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/81405122",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/inupiat",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=wKtUyQVBJfs",
+                "text": "Watch"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/inupiat-malmo/xhjzax7iew1ia",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/100524229",
+                "text": "Listen"
             }
         ]
     }
