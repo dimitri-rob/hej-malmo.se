@@ -6,6 +6,8 @@
 		<ul>
 			<li v-for="link in data[release].links" :key="link.item">
 				<a :href="link.href" target="_blank">{{ link.item }}</a>
+				<img :src="`${publicPath}assets/artworks/${link.item}.svg`" />
+				{{ link.text }}
 			</li>
 		</ul>
 
