@@ -1,19 +1,45 @@
 <template>
-	<div>
-		<img :src="`${publicPath}assets/artworks/${release}.jpg`" />
-		<h1>{{ data[release].artist }}</h1>
-		<h2>{{ data[release].name }}</h2>
+	<main class="p-10">
+		<section class="max-w-xs mx-auto">
+			<div class="container bg-white p-8 rounded-lg">
+				<img :src="`${publicPath}assets/artworks/${release}.jpg`" />
+				<h1>{{ data[release].artist }}</h1>
+				<h2>{{ data[release].name }}</h2>
 
-		<ul>
-			<li v-for="link in data[release].links" :key="link.item">
-				<a :href="link.href" target="_blank">
-					<img :src="`${publicPath}assets/logos/${link.item}.svg`" />
-				</a>
-
-				<a :href="link.href" target="_blank">{{ link.text }}</a>
-			</li>
-		</ul>
-	</div>
+				<ul>
+					<li
+						v-for="link in data[release].links"
+						:key="link.item"
+						class="grid grid-cols-2"
+					>
+						<div class="flex justify-start items-center">
+							<a :href="link.href" target="_blank" class="block">
+								<img
+									:src="`${publicPath}assets/logos/${link.item}.svg`"
+									class="block"
+								/>
+							</a>
+						</div>
+						<div class="flex justify-end items-center">
+							<a
+								:href="link.href"
+								target="_blank"
+								class="
+									bg-black
+									text-white
+									inline-block
+									rounded-lg
+									py-1
+									px-4
+								"
+								>{{ link.text }}</a
+							>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</section>
+	</main>
 </template>
 
 <script>
@@ -29,3 +55,9 @@ export default {
 	},
 };
 </script>
+
+<style lang="postcss" scoped>
+main {
+	background: #333;
+}
+</style>
