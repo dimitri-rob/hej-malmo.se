@@ -74,12 +74,20 @@
 import releaseData from "@/assets/releases.json";
 
 export default {
+	name: "Release",
 	data() {
 		return {
 			publicPath: process.env.BASE_URL,
 			release: this.$route.params.id,
 			data: releaseData,
 		};
+	},
+	created() {
+		document.title =
+			"Listen to " +
+			this.data[this.release].name +
+			" by " +
+			this.data[this.release].artist;
 	},
 };
 </script>
