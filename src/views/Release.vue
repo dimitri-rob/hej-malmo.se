@@ -1,22 +1,41 @@
 <template>
 	<main class="p-10">
-		<section class="max-w-xs mx-auto">
-			<div class="container bg-white p-8 rounded-lg">
-				<img :src="`${publicPath}assets/artworks/${release}.jpg`" />
-				<h1>{{ data[release].artist }}</h1>
-				<h2>{{ data[release].name }}</h2>
+		<section class="max-w-sm mx-auto">
+			<div class="container">
+				<figure class="max-w-xs mx-auto drop-shadow-md">
+					<img
+						class="block"
+						:src="`${publicPath}assets/artworks/${release}.jpg`"
+					/>
+				</figure>
+				<section class="text-white py-6">
+					<h1 class="uppercase font-bold text-lg leading-6">
+						{{ data[release].artist }}
+					</h1>
+					<h2 class="text-xl leading-6">
+						{{ data[release].name }}
+					</h2>
+				</section>
 
-				<ul>
+				<ul
+					class="
+						bg-white
+						px-6
+						rounded-lg
+						grid grid-cols-1
+						divide-y divide-gray-300
+					"
+				>
 					<li
 						v-for="link in data[release].links"
 						:key="link.item"
-						class="grid grid-cols-2"
+						class="grid grid-cols-2 gap-4 py-5"
 					>
-						<div class="flex justify-start items-center">
+						<div class="">
 							<a :href="link.href" target="_blank" class="block">
 								<img
 									:src="`${publicPath}assets/logos/${link.item}.svg`"
-									class="block"
+									class="block w-full"
 								/>
 							</a>
 						</div>
@@ -28,9 +47,18 @@
 									bg-black
 									text-white
 									inline-block
-									rounded-lg
-									py-1
-									px-4
+									rounded-full
+									py-2
+									px-5
+									w-24
+									text-lg
+									leading-5
+									border-2 border-solid border-black
+									transition-all
+									duration-300
+									ease-in-out
+									hover:bg-white
+									hover:text-black
 								"
 								>{{ link.text }}</a
 							>
@@ -58,6 +86,6 @@ export default {
 
 <style lang="postcss" scoped>
 main {
-	background: #333;
+	background: #191919;
 }
 </style>
