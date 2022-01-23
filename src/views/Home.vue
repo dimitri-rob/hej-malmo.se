@@ -11,7 +11,7 @@
 
 <script>
 // @ is an alias to /src
-import Menu from "../components/Menu";
+import Menu from "@/components/menu.vue";
 
 export default {
 	name: "Home",
