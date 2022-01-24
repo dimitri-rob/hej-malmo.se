@@ -266,6 +266,7 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      home: ['Lora', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif']
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
