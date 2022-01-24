@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Lora';
-    src: url('/public/assets/fonts/Lora-Regular.woff2') format('woff2'),
-        url('/public/assets/fonts/Lora-Regular.woff') format('woff');
+    src: url('/assets/fonts/lora-regular.woff2') format('woff2'),
+        url('/assets/fonts/lora-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Lora';
-    src: url('/public/assets/fonts/Lora-SemiBold.woff2') format('woff2'),
-        url('/public/assets/fonts/Lora-SemiBold.woff') format('woff');
+    src: url('/assets/fonts/lora-semibold.woff2') format('woff2'),
+        url('/assets/fonts/lora-semibold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;

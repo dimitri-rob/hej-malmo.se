@@ -77,10 +77,10 @@
 
 			<section class="container grid grid-cols-12 gap-12">
 				<div class="col-span-8">
-					<h1 class="text-3xl mb-2 font-semibold">{{ title }}</h1>
+					<h1 class="text-2xl mb-2 font-semibold">{{ title }}</h1>
 					<div
 						v-html="description"
-						class="text-xl flex flex-col space-y-4"
+						class="text-lg flex flex-col space-y-4"
 					></div>
 				</div>
 				<div class="col-span-4 flex items-center">
@@ -97,9 +97,11 @@
 
 			<footer class="text-sm">
 				contact (booking/other):
-				<a :href="'mailto:' + contact + ''" class="font-semibold">{{
-					contact
-				}}</a>
+				<a
+					:href="'mailto:' + contact + ''"
+					class="font-semibold hover:underline"
+					>{{ contact }}</a
+				>
 			</footer>
 		</section>
 	</main>
@@ -124,7 +126,3 @@ export default {
 	},
 };
 </script>
-
-<style lang="postcss" scoped>
-@import "/assets/fonts.css";
-</style>

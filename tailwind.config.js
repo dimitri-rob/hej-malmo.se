@@ -5,6 +5,11 @@ module.exports = {
   presets: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    extend: {
+      fontFamily: {
+        home: ['Lora', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      }
+    },
     screens: {
       sm: '640px',
       md: '768px',
@@ -266,7 +271,6 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
-      home: ['Lora', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif']
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
