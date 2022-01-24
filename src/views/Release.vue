@@ -8,7 +8,7 @@
 						:src="`${publicPath}assets/artworks/${release}.jpg`"
 					/>
 				</figure>
-				<section class="text-white py-6">
+				<section class="text-white py-6 text-center">
 					<h1 class="uppercase font-bold text-lg leading-6">
 						{{ data[release].artist }}
 					</h1>

@@ -1,6 +1,6 @@
 <template>
-	<nav class="header__menu">
-		<ul>
+	<nav class="font-home text-base lowercase">
+		<ul class="flex justify-start items-center">
 			<li v-for="item in items" :key="item.name">
 				<a :href="item.href" target="_blank">{{ item.name }}</a>
 			</li>
