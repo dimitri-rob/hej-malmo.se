@@ -1,6 +1,15 @@
 <template>
 	<nav class="font-home text-base lowercase">
-		<ul class="flex justify-start items-center space-x-6">
+		<ul
+			class="
+				sm:grid
+				grid-flow-col
+				auto-cols-max
+				sm:space-x-8
+				text-center
+				sm:text-left
+			"
+		>
 			<li v-for="item in items" :key="item.name">
 				<a
 					:href="item.href"

@@ -1,8 +1,19 @@
 <template>
-	<main class="container p-10 font-home w-full h-screen flex items-center">
+	<main
+		class="
+			container
+			p-8
+			font-home
+			w-full
+			min-h-screen
+			flex
+			items-center
+			sm:p-10
+		"
+	>
 		<section class="max-w-screen-md mx-auto space-y-16">
 			<header>
-				<figure class="w-36 mb-5">
+				<figure class="w-36 mb-5 mx-auto sm:mx-0">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -75,8 +86,8 @@
 				<Menu />
 			</header>
 
-			<section class="container grid grid-cols-12 gap-12">
-				<div class="col-span-8">
+			<section class="container sm:grid sm:grid-cols-12 sm:gap-12">
+				<div class="col-span-8 mb-8 sm:mb-0 text-center sm:text-left">
 					<h1 class="text-2xl mb-2 font-semibold">{{ title }}</h1>
 					<div
 						v-html="description"
@@ -95,7 +106,7 @@
 				</div>
 			</section>
 
-			<footer class="text-sm">
+			<footer class="text-sm text-center sm:text-left">
 				contact (booking/other):
 				<a
 					:href="'mailto:' + contact + ''"
