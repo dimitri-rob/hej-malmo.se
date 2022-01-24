@@ -8,11 +8,11 @@
 						:src="`${publicPath}assets/artworks/${release}.jpg`"
 					/>
 				</figure>
-				<section class="text-white py-6 text-center">
+				<section class="text-white py-6 text-center font-release">
 					<h1 class="uppercase font-bold text-lg leading-6">
 						{{ data[release].artist }}
 					</h1>
-					<h2 class="text-xl leading-6">
+					<h2 class="text-base leading-6">
 						{{ data[release].name }}
 					</h2>
 				</section>
@@ -44,6 +44,7 @@
 								:href="link.href"
 								target="_blank"
 								class="
+									font-release
 									bg-black
 									text-white
 									inline-block
@@ -51,7 +52,7 @@
 									py-2
 									px-5
 									w-24
-									text-lg
+									text-base text-center
 									leading-5
 									border-2 border-solid border-black
 									transition-all

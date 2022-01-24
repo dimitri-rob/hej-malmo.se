@@ -15,3 +15,22 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/montserrat-regular.woff2') format('woff2'),
+        url('/assets/fonts/montserrat-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/montserrat-bold.woff2') format('woff2'),
+        url('/assets/fonts/montserrat-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
