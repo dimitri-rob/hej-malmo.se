@@ -1,8 +1,10 @@
 <template>
 	<nav class="font-home text-base lowercase">
-		<ul class="flex justify-start items-center">
+		<ul class="flex justify-start items-center space-x-6">
 			<li v-for="item in items" :key="item.name">
-				<a :href="item.href" target="_blank">{{ item.name }}</a>
+				<a :href="item.href" target="_blank" class="text-sm">{{
+					item.name
+				}}</a>
 			</li>
 		</ul>
 	</nav>
