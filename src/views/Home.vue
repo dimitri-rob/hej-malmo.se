@@ -132,7 +132,7 @@ export default {
 			title: "Lost in north.",
 			description:
 				"<p>Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit.</p><p>Through his compositions, the Parisian producer creates tactful melodies which are finely cadenced by wooly beats. Ambient, electronica, and felted techno are joined together to give life to evading tracks.</p>",
-			contact: "contact@hej-malmo.se",
+			contact: "malmo-music@proton.me",
 		};
 	},
 };
