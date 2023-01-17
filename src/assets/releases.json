@@ -1,4 +1,15 @@
 {
+    "les-grands-ensembles-single": {
+        "artist": "Malmö",
+        "name": "Les Grands Ensembles (single)",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/les-grands-ensembles-ep",
+                "text": "Listen"
+            }
+        ]
+    },
     "phil": {
         "artist": "Malmö",
         "name": "Phil EP",
