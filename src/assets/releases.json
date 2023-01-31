@@ -9,8 +9,38 @@
                 "text": "Listen"
             },
             {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2Jil2nd8BkcnLrvcL0zipT?si=FVeHI7e4SCKsIFmp1xxnBw",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/fr/album/les-grands-ensembles-single/1663013280",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://deezer.page.link/PHEnUkjufztkwyEk7",
+                "text": "Listen"
+            },
+            {
                 "item": "youtube",
                 "href": "https://www.youtube.com/watch?v=7g5YPSieiVU",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/les-grands-ensembles",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/fr-fr/album/les-grands-ensembles-malmo/m7r1zo80fjsaa",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/269846573",
                 "text": "Listen"
             },
             {
