@@ -45,7 +45,7 @@
 						<iframe
 							class="w-full"
 							style="border: 0"
-							src="https://bandcamp.com/EmbeddedPlayer/album=1439854761/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/"
+							src="https://bandcamp.com/EmbeddedPlayer/album=918875524/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/"
 							seamless=""
 						></iframe>
 					</div>
