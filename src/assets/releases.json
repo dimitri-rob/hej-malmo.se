@@ -1,11 +1,46 @@
 {
-    "les-grands-ensembles-ep": {
+    "les-grands-ensembles": {
         "artist": "Malmö",
         "name": "Les Grands Ensembles EP",
         "links": [
             {
                 "item": "bandcamp",
                 "href": "https://hej-malmo.bandcamp.com/album/les-grands-ensembles-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/6rIB995jOlCBET2vNVfElZ",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/fr/album/les-grands-ensembles-ep/1663464913",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/fr/album/393151617",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=9iRhjtmpul8&list=PLXeHMU3G5EZiZR2pVnFt4enb7RwXbu73x&index=1",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/les-grands-ensembles",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/fr-fr/album/les-grands-ensembles-malmo/es64txeqmq91a",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/269851871",
                 "text": "Listen"
             },
             {
