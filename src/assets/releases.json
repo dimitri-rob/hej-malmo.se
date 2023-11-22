@@ -1,4 +1,50 @@
 {
+    "tdf-get-away": {
+        "artist": "Malmö & TRMA",
+        "name": "TDF / Get Away",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/tdf-get-away",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "#",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "#",
+                "text": "Listen"
+            }
+        ]
+    },
     "les-grands-ensembles": {
         "artist": "Malmö",
         "name": "Les Grands Ensembles EP",
