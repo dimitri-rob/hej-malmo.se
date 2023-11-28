@@ -10,37 +10,32 @@
             },
             {
                 "item": "spotify",
-                "href": "#",
+                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
                 "text": "Listen"
             },
             {
                 "item": "apple",
-                "href": "#",
+                "href": "https://music.apple.com/fr/album/tdf-get-away-ep/1718284470",
                 "text": "Listen"
             },
             {
                 "item": "deezer",
-                "href": "#",
+                "href": "https://www.deezer.com/album/516017312",
                 "text": "Listen"
             },
             {
                 "item": "youtube",
-                "href": "#",
-                "text": "Listen"
-            },
-            {
-                "item": "soundcloud",
-                "href": "#",
+                "href": "https://www.youtube.com/playlist?list=PLXeHMU3G5EZi5L3juc6y9j7uHRp1ONML7",
                 "text": "Listen"
             },
             {
                 "item": "qobuz",
-                "href": "#",
+                "href": "https://www.qobuz.com/album/tdf-get-away-malmo-trma/mgv0yhmkgj50b",
                 "text": "Listen"
             },
             {
                 "item": "tidal",
-                "href": "#",
+                "href": "https://tidal.com/browse/album/330891552",
                 "text": "Listen"
             }
         ]
