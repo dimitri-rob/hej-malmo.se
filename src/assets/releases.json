@@ -1,4 +1,50 @@
 {
+    "trma-tdf-get-away": {
+        "artist": "Malmö & TRMA",
+        "name": "TDF / Get Away",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://tr8ma.bandcamp.com/album/tdf-get-away",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/fr/album/tdf-get-away-ep/1718284470",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/516017312",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/playlist?list=PLXeHMU3G5EZi5L3juc6y9j7uHRp1ONML7",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/sets/tdf-get-away",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/tdf-get-away-malmo-trma/mgv0yhmkgj50b",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/album/330891552",
+                "text": "Listen"
+            }
+        ]
+    },
     "tdf-get-away": {
         "artist": "Malmö & TRMA",
         "name": "TDF / Get Away",
