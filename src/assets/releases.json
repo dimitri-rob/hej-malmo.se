@@ -1,4 +1,45 @@
 {
+    "live-2024": {
+        "artist": "Malmö",
+        "name": "Live at La Cathédrale Engloutie, 10th February 2024",
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/live-at-la-cath-drale-engloutie-10th-february-2024",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "",
+                "text": "Listen"
+            },
+            {
+                "item": "tidal",
+                "href": "",
+                "text": "Listen"
+            }
+        ]
+    },
     "trma-tdf-get-away": {
         "artist": "Malmö & TRMA",
         "name": "TDF / Get Away",
