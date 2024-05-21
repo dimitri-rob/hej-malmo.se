@@ -4,38 +4,38 @@
         "name": "Live at La Cathédrale Engloutie, 10th February 2024",
         "links": [
             {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=bq1K2zKb7QE",
+                "text": "Watch"
+            },
+            {
                 "item": "bandcamp",
                 "href": "https://hej-malmo.bandcamp.com/album/live-at-la-cath-drale-engloutie-10th-february-2024",
                 "text": "Listen"
             },
             {
                 "item": "spotify",
-                "href": "",
+                "href": "https://open.spotify.com/album/1c9NYaWzeWVaBuQeYZRO4m",
                 "text": "Listen"
             },
             {
                 "item": "apple",
-                "href": "",
+                "href": "https://music.apple.com/album/live-at-la-cath%C3%A9drale-engloutie-10th-february-2024/1746686972",
                 "text": "Listen"
             },
             {
                 "item": "deezer",
-                "href": "",
-                "text": "Listen"
-            },
-            {
-                "item": "youtube",
-                "href": "",
+                "href": "https://www.deezer.com/album/587175722",
                 "text": "Listen"
             },
             {
                 "item": "qobuz",
-                "href": "",
+                "href": "https://www.qobuz.com/album/live-at-la-cathedrale-engloutie-malmo/tin73m5c52inb",
                 "text": "Listen"
             },
             {
                 "item": "tidal",
-                "href": "",
+                "href": "https://tidal.com/browse/album/363378306",
                 "text": "Listen"
             }
         ]
