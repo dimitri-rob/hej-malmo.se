@@ -13,7 +13,9 @@
 					<a
 						:href="item.href"
 						target="_blank"
-						class="text-sm hover:underline"
+						:class="item.highlight
+							? 'text-sm inline-block bg-black text-white px-2 py-0.5 hover:underline'
+							: 'text-sm hover:underline'"
 						v-if="item.type === 'stream'"
 						>{{ item.name }}</a
 					>
@@ -47,14 +49,17 @@ export default {
 	data() {
 		return {
 			items: [
+				// Mis en avant : seul item qui vend quelque chose, il ne doit pas se
+				// fondre dans la liste des plateformes d'écoute.
+				{
+					name: "Merch",
+					href: "https://hej-malmo.bandcamp.com/merch",
+					type: "stream",
+					highlight: true
+				},
 				{
 					name: "Bandcamp",
 					href: "https://hej-malmo.bandcamp.com/",
-					type: "stream"
-				},
-				{
-					name: "Spotify",
-					href: "https://open.spotify.com/artist/6yBdtaTSKKjyUZI2xH052v",
 					type: "stream"
 				},
 				{
@@ -73,6 +78,11 @@ export default {
 					type: "stream"
 				},
 				{
+					name: "Spotify",
+					href: "https://open.spotify.com/artist/6yBdtaTSKKjyUZI2xH052v",
+					type: "stream"
+				},
+				{
 					name: "Soundcloud",
 					href: "https://soundcloud.com/hej-malmo",
 					type: "stream"
@@ -88,19 +98,14 @@ export default {
 					type: "social"
 				},
 				{
-					name: "Facebook",
-					href: "https://www.facebook.com/hejmalmo",
+					name: "Bluesky",
+					href: "https://bsky.app/profile/hej-malmo.se",
 					type: "social"
 				},
 				{
-					name: "Twitter",
-					href: "https://twitter.com/hej_malmo",
+					name: "Stubo",
+					href: "https://stubo.app/artist/708-malmo",
 					type: "social"
-				},
-				{
-					name: "Merch",
-					href: "https://hej-malmo.bandcamp.com/merch",
-					type: "stream"
 				},
 			],
 		};
