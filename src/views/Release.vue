@@ -6,6 +6,9 @@
 					<img
 						class="block"
 						:src="`${publicPath}assets/artworks/${release}.jpg`"
+						:srcset="srcset"
+						sizes="320px"
+						:alt="`${data[release].artist} — ${data[release].name}`"
 					/>
 				</figure>
 				<section class="text-white py-6 text-center font-release">
@@ -55,6 +58,7 @@
 									text-base text-center
 									leading-5
 									border-2 border-solid border-black
+									min-w-max
 									transition-all
 									duration-300
 									ease-in-out
@@ -82,6 +86,21 @@ export default {
 			release: this.$route.params.id,
 			data: releaseData,
 		};
+	},
+	computed: {
+		// Les pochettes existent toutes en 600px sous `<slug>.jpg`. Une release
+		// peut en plus déclarer `widths` (ex. [960]) pour les écrans retina : les
+		// variantes sont alors nommées `<slug>-<width>.jpg`. Sans ce champ, on
+		// renvoie null et l'attribut srcset n'est pas émis.
+		srcset() {
+			const extraWidths = this.data[this.release].widths;
+			if (!extraWidths || !extraWidths.length) return null;
+
+			const path = `${this.publicPath}assets/artworks/${this.release}`;
+			return [`${path}.jpg 600w`]
+				.concat(extraWidths.map((w) => `${path}-${w}.jpg ${w}w`))
+				.join(", ");
+		},
 	},
 	created() {
 		document.title =

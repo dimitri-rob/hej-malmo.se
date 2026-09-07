@@ -1,4 +1,23 @@
 {
+    "beau-land-park": {
+        "artist": "Malmö",
+        "name": "Beau Land Park EP",
+        "widths": [
+            960
+        ],
+        "links": [
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/beau-land-park-ep",
+                "text": "Cassette"
+            },
+            {
+                "item": "bandcamp",
+                "href": "https://hej-malmo.bandcamp.com/album/beau-land-park-ep",
+                "text": "Listen"
+            }
+        ]
+    },
     "live-2024": {
         "artist": "Malmö",
         "name": "Live at La Cathédrale Engloutie, 10th February 2024",
