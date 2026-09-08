@@ -17,11 +17,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/track/1BgGTxbV3UgcVq6uovqZEz",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/beau-land-park-single/6808203315",
                 "text": "Listen"
@@ -29,6 +24,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/1070028902",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/track/1BgGTxbV3UgcVq6uovqZEz",
                 "text": "Listen"
             },
             {
@@ -63,11 +63,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/1c9NYaWzeWVaBuQeYZRO4m",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/fr/album/live-at-la-cath%C3%A9drale-engloutie-10th-february-2024/1746686972",
                 "text": "Listen"
@@ -75,6 +70,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/587175722",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/1c9NYaWzeWVaBuQeYZRO4m",
                 "text": "Listen"
             },
             {
@@ -99,11 +99,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/fr/album/tdf-get-away-ep/1718284470",
                 "text": "Listen"
@@ -111,6 +106,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/516017312",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
                 "text": "Listen"
             },
             {
@@ -145,11 +145,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/fr/album/tdf-get-away-ep/1718284470",
                 "text": "Listen"
@@ -157,6 +152,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/516017312",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2jOud3XgFTigZhbJ6FJUvg",
                 "text": "Listen"
             },
             {
@@ -191,11 +191,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/6rIB995jOlCBET2vNVfElZ",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/fr/album/les-grands-ensembles-ep/1663464913",
                 "text": "Listen"
@@ -203,6 +198,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/fr/album/393151617",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/6rIB995jOlCBET2vNVfElZ",
                 "text": "Listen"
             },
             {
@@ -242,11 +242,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/2Jil2nd8BkcnLrvcL0zipT?si=FVeHI7e4SCKsIFmp1xxnBw",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/fr/album/les-grands-ensembles-single/1663013280",
                 "text": "Listen"
@@ -254,6 +249,11 @@
             {
                 "item": "deezer",
                 "href": "https://deezer.page.link/PHEnUkjufztkwyEk7",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2Jil2nd8BkcnLrvcL0zipT?si=FVeHI7e4SCKsIFmp1xxnBw",
                 "text": "Listen"
             },
             {
@@ -293,11 +293,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/2zlG8s7K6eqZCK1OYt1QOn?si=rnv9M3d5T9O7dblYMXs7xg",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/phil-single/1558135697",
                 "text": "Listen"
@@ -305,6 +300,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/214288152",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2zlG8s7K6eqZCK1OYt1QOn?si=rnv9M3d5T9O7dblYMXs7xg",
                 "text": "Listen"
             },
             {
@@ -344,11 +344,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/0Kq79jtO4iIY1Oyog1TP2b?si=N_x0zghfRb2JJFo6CaZVVg",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/sink/1512752617",
                 "text": "Listen"
@@ -356,6 +351,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/147191122",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/0Kq79jtO4iIY1Oyog1TP2b?si=N_x0zghfRb2JJFo6CaZVVg",
                 "text": "Listen"
             },
             {
@@ -390,11 +390,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/7hRgJNTVq8gwhqPpGbRGxs?si=_b-0EfcYSBKqzl3xmk_tkw",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/concorde-single/1461256665",
                 "text": "Listen"
@@ -402,6 +397,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/94465062",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/7hRgJNTVq8gwhqPpGbRGxs?si=_b-0EfcYSBKqzl3xmk_tkw",
                 "text": "Listen"
             },
             {
@@ -441,11 +441,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/1HAb8b61fiqzFKln8QqDTw?si=GOKz5zrnRHeqlGApCQACdw",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/latitude-ep/1437653945",
                 "text": "Listen"
@@ -453,6 +448,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/74131552",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/1HAb8b61fiqzFKln8QqDTw?si=GOKz5zrnRHeqlGApCQACdw",
                 "text": "Listen"
             },
             {
@@ -492,11 +492,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/2NDtYc1d0mfHHkGoAvFP8H?si=yDIBmY2iRpCJBBQKr428vA",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/inupiat-remixes-ep/1320951503",
                 "text": "Listen"
@@ -504,6 +499,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/52851082",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/2NDtYc1d0mfHHkGoAvFP8H?si=yDIBmY2iRpCJBBQKr428vA",
                 "text": "Listen"
             },
             {
@@ -538,11 +538,6 @@
                 "text": "Listen"
             },
             {
-                "item": "spotify",
-                "href": "https://open.spotify.com/album/1XtywSoUL6nzbCLDPSfCVJ?si=u4aKfLZwRMSQink4nJTXAA",
-                "text": "Listen"
-            },
-            {
                 "item": "apple",
                 "href": "https://music.apple.com/album/inupiat-single/1446443028",
                 "text": "Listen"
@@ -550,6 +545,11 @@
             {
                 "item": "deezer",
                 "href": "https://www.deezer.com/album/81405122",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/album/1XtywSoUL6nzbCLDPSfCVJ?si=u4aKfLZwRMSQink4nJTXAA",
                 "text": "Listen"
             },
             {
