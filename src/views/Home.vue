@@ -45,7 +45,7 @@
 						<iframe
 							class="w-full"
 							style="border: 0"
-							src="https://bandcamp.com/EmbeddedPlayer/album=918875524/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/"
+							src="https://bandcamp.com/EmbeddedPlayer/album=3434668065/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/"
 							seamless=""
 						></iframe>
 					</div>
@@ -75,9 +75,9 @@ export default {
 	},
 	data() {
 		return {
-			title: "Lost in north.",
+			title: "Landscapes, disappearing.",
 			description:
-				"<p>Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit.</p><p>Through his compositions, the Parisian producer creates tactful melodies which are finely cadenced by wooly beats. Ambient, electronica, and felted techno are joined together to give life to evading tracks.</p>",
+				"<p>Paris-based electronic project Malmö emerged around ten years ago, developing a sound inspired by places, landscapes and images, somewhere between ambient and electronica. Atmospheric pads and textures, arpeggiators, melodies and minimalism now meet rhythms inspired by the UK electronic scene.</p><p class='text-base'>Following <em><a href='/les-grands-ensembles' class='hover:underline'>Les Grands Ensembles</a></em> in 2023, Malmö returns with <em><a href='/beau-land-park' class='hover:underline'>Beau Land Park</a></em>. The EP takes its title from a funfair set up on the Atlantic coast during the summer. This image became the starting point for five tracks exploring the transformation of landscapes, their artificialisation and their disappearance.</p>",
 			contact: "malmo-music@proton.me",
 		};
 	},

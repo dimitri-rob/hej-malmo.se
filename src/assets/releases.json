@@ -1,7 +1,7 @@
 {
     "beau-land-park": {
         "artist": "Malmö",
-        "name": "Beau Land Park EP",
+        "name": "Beau Land Park",
         "widths": [
             960
         ],
@@ -14,6 +14,36 @@
             {
                 "item": "bandcamp",
                 "href": "https://hej-malmo.bandcamp.com/album/beau-land-park-ep",
+                "text": "Listen"
+            },
+            {
+                "item": "spotify",
+                "href": "https://open.spotify.com/track/1BgGTxbV3UgcVq6uovqZEz",
+                "text": "Listen"
+            },
+            {
+                "item": "apple",
+                "href": "https://music.apple.com/album/beau-land-park-single/6808203315",
+                "text": "Listen"
+            },
+            {
+                "item": "deezer",
+                "href": "https://www.deezer.com/album/1070028902",
+                "text": "Listen"
+            },
+            {
+                "item": "soundcloud",
+                "href": "https://soundcloud.com/hej-malmo/beau-land-park",
+                "text": "Listen"
+            },
+            {
+                "item": "youtube",
+                "href": "https://www.youtube.com/watch?v=YpA1fYPawPE",
+                "text": "Watch"
+            },
+            {
+                "item": "tidal",
+                "href": "https://tidal.com/browse/track/558120824",
                 "text": "Listen"
             }
         ]
