@@ -6,9 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="/assets/favicon.svg">
-    <title>Malmö — electronic music</title>
+    <% const social = htmlWebpackPlugin.options.social %>
+    <title><%- social ? social.title : 'Malmö — electronic music' %></title>
     <meta name="description"
-      content="Paris-based electronic project Malmö: a sound inspired by places, landscapes and images, somewhere between ambient and electronica.">
+      content="<%- social ? social.title + '.' : 'Paris-based electronic project Malmö: a sound inspired by places, landscapes and images, somewhere between ambient and electronica.' %>">
+    <% if (social) { %>
+    <link rel="canonical" href="<%- social.url %>">
+    <meta property="og:type" content="music.album">
+    <meta property="og:site_name" content="Malmö">
+    <meta property="og:url" content="<%- social.url %>">
+    <meta property="og:title" content="<%- social.ogTitle %>">
+    <meta property="og:description" content="<%- social.title %>.">
+    <meta property="og:image" content="<%- social.image %>">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="<%- social.imageSize %>">
+    <meta property="og:image:height" content="<%- social.imageSize %>">
+    <meta property="og:image:alt" content="<%- social.imageAlt %>">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="<%- social.ogTitle %>">
+    <meta name="twitter:description" content="<%- social.title %>.">
+    <meta name="twitter:image" content="<%- social.image %>">
+    <meta name="twitter:image:alt" content="<%- social.imageAlt %>">
+    <% } %>
   </head>
 
   <body>
