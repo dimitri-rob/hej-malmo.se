@@ -4,9 +4,10 @@ const SITE_URL = "https://hej-malmo.se";
 
 // Les robots de partage (X, Facebook, Bluesky, iMessage…) n'exécutent pas le
 // JS : ils ne verraient que l'index.html générique. On génère donc au build un
-// `<slug>/index.html` par sortie, qui porte ses propres balises Open Graph et
+// `<slug>.html` par sortie, qui porte ses propres balises Open Graph et
 // Twitter Card. Netlify sert ce fichier pour `/<slug>` avant de tomber sur la
-// règle SPA de `_redirects`, et l'appli Vue démarre ensuite normalement.
+// règle SPA de `_redirects`, et l'appli Vue démarre ensuite normalement. Pas
+// de `<slug>/index.html` : Netlify redirigerait alors vers `/<slug>/`.
 function socialMeta(slug, release) {
 	// Pochette carrée : on prend la plus grande variante disponible.
 	const width = Math.max(600, ...(release.widths || []));
@@ -32,7 +33,7 @@ module.exports = {
 			config.plugin(`html-${slug}`).use(HtmlWebpackPlugin, [
 				{
 					...options,
-					filename: `${slug}/index.html`,
+					filename: `${slug}.html`,
 					social: socialMeta(slug, release),
 				},
 			]);
