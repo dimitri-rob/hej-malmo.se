@@ -18,7 +18,7 @@
             },
             {
                 "item": "apple",
-                "href": "https://music.apple.com/fr/album/beau-land-park-ep/6811055554",
+                "href": "https://geo.music.apple.com/album/beau-land-park-ep/6811055554?app=music",
                 "text": "Listen"
             },
             {
@@ -39,6 +39,11 @@
             {
                 "item": "youtube",
                 "href": "https://www.youtube.com/playlist?list=PLeK8mOh_oO-Y",
+                "text": "Listen"
+            },
+            {
+                "item": "qobuz",
+                "href": "https://www.qobuz.com/album/beau-land-park-ep-malmo/gj6i38xtrwzlt",
                 "text": "Listen"
             },
             {
